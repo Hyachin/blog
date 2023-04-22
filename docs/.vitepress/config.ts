@@ -28,8 +28,12 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/Hyachin/blog' }
     ],
     lastUpdatedText: "最近更新时间",
+    editLink: {
+      pattern: 'https://github.com/Hyachin/blog',
+      text: 'Edit this page on GitHub'
+    }
   }
 })

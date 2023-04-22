@@ -13,8 +13,8 @@ hero:
       text: 现在开始
       link: /getting-started
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: View on GitHub
+      link: https://github.com/Hyachin/blog
 
 features:
   - title: 🤓 渐进化体系
