@@ -6,6 +6,9 @@ export default defineConfig({
   title: "前端星球",
   description: "A VitePress Site",
   lastUpdated:true,
+  head:[
+    ['link', { rel: 'icon', href: '/favicon.ico' }]
+  ],
   themeConfig: {
     logo:"/logo.png",
     // https://vitepress.dev/reference/default-theme-config
