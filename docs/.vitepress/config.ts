@@ -22,6 +22,12 @@ export default defineConfig({
         ]
       },
       { 
+        text: '前端项目相关', 
+        items:[
+          {text:'文件上传必传校验',link:'/project/文件上传必传校验'}
+        ]
+      },
+      { 
         text: '软考', 
         items:[
           {
@@ -39,6 +45,12 @@ export default defineConfig({
         text: '中级前端进阶',
         items: [
           { text: '前端可视化', link: '/intermediate/前端可视化' },
+        ]
+      },
+      { 
+        text: '前端项目相关', 
+        items:[
+          {text:'文件上传必传校验',link:'/project/文件上传必传校验'}
         ]
       },
       {
